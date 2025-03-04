@@ -2,7 +2,7 @@
 
 
 function returnFirstTwoDrivers(drivers) {
-    return drivers.slice(0, 2);  
+    return drivers.slice(0, 2);  // Get the first two drivers
   }
   
   

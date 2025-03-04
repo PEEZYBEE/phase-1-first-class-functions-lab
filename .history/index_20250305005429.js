@@ -1,8 +1,8 @@
 // Code your solution in this file!
 
-
+// 1. Returns the first two drivers
 function returnFirstTwoDrivers(drivers) {
-    return drivers.slice(0, 2);  
+    return drivers.slice(0, 2);  // Get the first two drivers
   }
   
   
